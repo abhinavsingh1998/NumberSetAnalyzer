@@ -11,8 +11,7 @@ ViewModel Integration: Uses ViewModel to handle configuration changes and mainta
 SOLID Principles: Adheres to SOLID principles for clean and maintainable code.
 
 ## ScreenShots
-https://github.com/abhinavsingh1998/NumberSetAnalyzer/assets/88830847/fc3c3aa7-9465-4230-b21c-6524c6462a5b
-
+https://github.com/abhinavsingh1998/NumberSetAnalyzer/assets/88830847/f4413247-a235-485e-b691-452a0c42f9be
 
 
 ## Architecture
